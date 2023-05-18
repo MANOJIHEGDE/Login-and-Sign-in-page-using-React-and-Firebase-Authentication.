@@ -1,70 +1,33 @@
-# Getting Started with Create React App
+A Log-IN and Sign-IN page using React,Javascript,CSS with Firebase Authentication for Email, Google or Otp verification (Phone).
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-## Available Scripts
+CONTRIBUTOR
 
-In the project directory, you can run:
+MANOJ HEGDE
 
-### `npm start`
+https://github.com/MANOJIHEGDE
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+RESULTS----
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+SCREENSHOTS---
 
-### `npm test`
+****LOGIN PAGE****
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+![pic1](https://github.com/MANOJIHEGDE/Login-and-Sign-in-page-using-React-and-Firebase-Authentication./assets/116331003/b21ae041-15cb-4af5-b79e-c4ebfed5bf3e)
 
-### `npm run build`
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+****SIGNIN PAGE****
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+![pic2](https://github.com/MANOJIHEGDE/Login-and-Sign-in-page-using-React-and-Firebase-Authentication./assets/116331003/7ec716b9-70ce-42f9-9402-a82964b43822)
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
 
-### `npm run eject`
+****SIGNING IN VIA PHONE PAGE****
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+![p4](https://github.com/MANOJIHEGDE/Login-and-Sign-in-page-using-React-and-Firebase-Authentication./assets/116331003/070c8ac1-dbe7-4e29-92a2-5d675f9beaf6)
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+![p6](https://github.com/MANOJIHEGDE/Login-and-Sign-in-page-using-React-and-Firebase-Authentication./assets/116331003/01915fd0-919f-415e-ad03-05cd4b1c7de9)
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
 
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
+****HOME PAGE****
 
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+![p7](https://github.com/MANOJIHEGDE/Login-and-Sign-in-page-using-React-and-Firebase-Authentication./assets/116331003/9f19b2a4-98fd-4dd1-a249-ece24191c75e)
