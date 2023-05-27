@@ -11,7 +11,7 @@ RESULTS----
 
 SCREENSHOTS---
 
-****LOGIN PAGE****
+****LOGIN PAGE*****
 
 ![pic1](https://github.com/MANOJIHEGDE/Login-and-Sign-in-page-using-React-and-Firebase-Authentication./assets/116331003/b21ae041-15cb-4af5-b79e-c4ebfed5bf3e)
 
